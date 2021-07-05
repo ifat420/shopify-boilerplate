@@ -5,7 +5,7 @@
     "settings": [
       {
         "type": "header",
-        "content": "Timber Framework"
+        "content": "Balu Framework"
       },
       {
         "type": "paragraph",
@@ -17,7 +17,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Review [Timber's documentation](http:\/\/shopify.github.io\/Timber\/) for any development help."
+        "content": ""
       }
     ]
   },
